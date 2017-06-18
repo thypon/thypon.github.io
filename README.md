@@ -29,5 +29,10 @@ In fact, I contributed to dozens of open source projects.
 <script>
     GitHubCalendar(".calendar", "thypon");
 </script>
+<style>
+  #main_content {
+    width: 700px;
+  }
+</style>
 
 For more details, check out my [CV](https://github.com/thypon/thypon.github.io/raw/master/cv.pdf) or my [LinkedIn profile](https://www.linkedin.com/in/andrea-brancaleoni-36252a66/).
