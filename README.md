@@ -9,7 +9,7 @@ My professional interests revolve around software methodologies and programming 
 I am an open source ambassador and VoidLinux package maintainer.
 In fact, I contributed to dozens of open source projects.
 
-<div id="github-widget" data-user="thypon" data-display="calendar"></div>
-<script src="https://gh-widget.oyanglul.us/index.js"></script>
+<div class="github-card" data-github="thypon" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 For more details, check out my [CV](https://github.com/thypon/thypon.github.io/raw/master/cv.pdf) or my [LinkedIn profile](https://www.linkedin.com/in/andrea-brancaleoni-36252a66/).
