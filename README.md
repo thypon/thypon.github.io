@@ -10,3 +10,9 @@ I am an open source ambassador and VoidLinux package maintainer.
 In fact, I contributed to dozens of open source projects.
 
 For more details, check out my [CV](https://github.com/thypon/thypon.github.io/raw/master/cv.pdf) or my [LinkedIn profile](https://www.linkedin.com/in/andrea-brancaleoni-36252a66/).
+
+<style>
+	.btn-github {
+		display: none;
+	}
+</style>
